@@ -1,0 +1,1 @@
+This repository contains an implementation in python of various machine learning algorithems that are used to recognize hand written digits
